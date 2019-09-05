@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>Oceanside Hotel and Sports Club</title>
+<link rel="stylesheet" type="text/css" href="stylesch4.css" />
+</head>
+<body>
+	<tr>
+		<th>Activities </th>
+		<th>Days and Times </th>
+		<th>Rates</th>
+	</tr>
+	
+	<tr class="stripe">
+		<td>Regular Play</td>
+		<td>Wednesday through Saturday, 7 a.m. - 5 p.m.</td>
+		<td>$40.00 per round</td>
+	</tr>
+	
+	<tr>
+		<td>Shotgun play</td>
+		<td>Sundays 7 a.m. - 3 p.m.</td>
+		<td>$25.00 per round</td>
+	</tr>
+	
+	<tr class="stripe">
+		<td>Private Lessons</td>
+		<td>Sunday through Friday, 8 a.m. - 2 p.m.</td>
+		<td>$30.00 per hour</td>
+	</tr>
+	
+	<tr>
+		<td>Group Lessons</td>
+		<td>Mondays and Thursdays, 8 a.m. - noon</td>
+		<td>$20.00 per hour</td>
+	</tr>
+	</table>
+</body>
+</html>

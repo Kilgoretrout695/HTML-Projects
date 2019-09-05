@@ -1,0 +1,26 @@
+﻿
+    body{background-color:lightcyan; font-family:'times new roman', times, serif;}
+h1{text-align:center;text-decoration:underline; font-family:'Times New Roman', Times, serif;}
+p{text-align:center; font-family:'Times New Roman', Times, serif;}
+img {display: block; margin-left: auto; margin-right: auto; width: 40%;}
+table {
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: #545859;
+    border-style: ridge;
+    border-width: 10px;
+}
+
+.menu {
+    text-align: center;
+    width: 60%;
+}
+
+.menuicon {
+    width: 23%;
+}
+
+.menupipe {
+    width: 1%;
+}
